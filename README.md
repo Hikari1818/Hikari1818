@@ -1,4 +1,4 @@
-## Hello, this is JudahRR!
+## Hello, this is Hikari!
 
 This is the Github page of @Hikari, let me tell you about myself!
 
