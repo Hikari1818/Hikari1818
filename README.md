@@ -10,7 +10,7 @@ This is the Github page of @Hikari, let me tell you about myself!
 
 🏢︱When I grow up, I want to be a rabbit...
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Hikari1818R&show_icons=true&theme=tokyonight&hide_border=true&locale=en&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Hikari1818&show_icons=true&theme=tokyonight&hide_border=true&locale=en&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hikari1818&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact&count_private=true" />
 
 designed by notJudahRR, if you want one contact him <3
