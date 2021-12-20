@@ -5,8 +5,8 @@ This is the Github page of @Hikari, let me tell you about myself!
 - 🍏︱Pronouns: he/him
 - 🍓︱I code in JavaScript, CSS, HTML, JSON, XML, and a tiny bit of Python.
 - 🎁︱I work for myself... i'm bored
-<!-- - 🍇︱You can contact me through Discord, and that's pretty much it... My Discord is: JudahRR#1729. -->
 - 🥕︱I like playing Minecraft, and making packs for it. I also like coding (*that's why I'm here*)
+<!-- - 🍇︱You can contact me through Discord, and that's pretty much it... My Discord is: JudahRR#1729. -->
 
 🏢︱When I grow up, I want to be a rabbit...
 
